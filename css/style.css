@@ -1,0 +1,11 @@
+/* Color Palette */
+/* blu: #3161E0;
+beige:#F6F6F6;
+nero:#23272A; */
+
+/* Reset */
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
