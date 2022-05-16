@@ -9,3 +9,52 @@ nero:#23272A; */
     padding:0;
     box-sizing: border-box;
 }
+
+/* Utils */
+.flex{
+    display: flex;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+header{
+    min-height: 400px;
+    background-color: #3161E0;
+}
+
+
+.mainbar{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 15px;
+
+}
+
+.mainbar-box-img, .mainbar-box-button{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+}
+
+.mainbar-box-nav{
+    width:580px;
+    height: 100px;
+    background-color: purple;
+    margin: 0 10px;
+}
+
+.header-box{
+    width: 700px;
+    min-height: 150px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.header-button{
+    margin-left: 150px;
+    margin-top: 10px;
+}
